@@ -8,7 +8,6 @@ I build responsive, high-performance web applications with Angular and TypeScrip
 
 - **Currently working on:** Building scalable Angular applications with a focus on performance, reusable components, and clean architecture.
 - **Open to collaborating on:** Open-source projects and real-world web applications built with Angular and TypeScript.
-- **Currently learning:** Advanced Angular patterns, state management, and frontend testing best practices.
 - **Ask me about:** Angular, TypeScript, UI component design, REST API integration, JWT authentication on the client, and turning designs into code.
 
 ## Tech Stack
